@@ -3,4 +3,4 @@
 
 Project | Description
 --- | ---
-[tf-od-api](https://github.com/ancs21/withdocker/tf-od-api) | Tensorflow Object Detection API Scratch
+[tf-od-api](https://github.com/ancs21/withdocker/tree/master/tf-od-api) | Tensorflow Object Detection API Scratch
